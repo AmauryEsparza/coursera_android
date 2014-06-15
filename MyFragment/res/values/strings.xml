@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_setings">Settings</string>
+    <string name="landscape_message">This is a Landscape mode fragment</string>
+    <string name="portrait_message">This is Portrait mode fragment</string>
+
+</resources>
