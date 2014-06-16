@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">IntentDemo2</string>
+	<string name="button1">Start Browser with VIEW launch</string>
+	<string name="button2">Start Browser with LAUNCH action</string>
+	<string name="button3">Exception Condition</string>
+	
+
+</resources>
