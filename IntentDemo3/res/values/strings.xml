@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">IntentDemo3</string>
+    <string name="button_explorer">Open web page</string>
+    <string name="button_phone">Open the phone</string>
+    <string name="button_maps">Open Google Maps </string>
+    <string name="button_camera">Open the camera</string>
+    <string name="button_email">Send email</string>
+
+</resources>
