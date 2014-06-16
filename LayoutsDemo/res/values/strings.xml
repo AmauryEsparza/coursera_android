@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LayoutsDemo</string>
+	<string name="name_button">OK</string>
+	<string name="hello">Say Hello</string>
+	<string name="name">Type your name</string>
+</resources>
