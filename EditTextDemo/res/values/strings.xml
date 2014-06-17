@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">EditTextDemo</string>
+    <string name="button_accept">Continue</string>
+    <string name="edit_text">Type something</string>
+
+</resources>
