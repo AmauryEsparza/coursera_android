@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">CheckBox</string>
+    <string name="action_settings">Settings</string> 
+    <string name="example_checkbox">Example showing CheckBox Control</string>
+    <string name="check_one">Java</string>
+    <string name="check_two">Perl</string>
+    <string name="check_three">Python</string>
+    <string name="example_question">Working on following languages</string>
+
+</resources>
