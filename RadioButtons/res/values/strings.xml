@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">RadioButtons</string>
+    <string name="example_radiobutton">Example showing RadioButton</string>
+    <string name="website_radio0">www.github.com</string>
+    <string name="website_radio1">www.google.com</string>
+    <string name="website_radio2">www.wikipedia.com</string>
+    <string name="website_name">URL website</string>
+
+</resources>
