@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ToogleButton</string>
+    <string name="example_result">Click Me</string>
+    <string name="example_togglebutton">Example showing ToggleButton </string>
+    <string name="stop_togglebutton">STOP</string>
+    <string name="start_togglebutton">START</string>
+
+</resources>
