@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">EventHandler2</string>
+    <string name="text_button1">Small Font</string>
+    <string name="text_button2">Large Font</string>
+    <string name="text_view1">Hello World</string> 
+    
+
+</resources>
