@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">RadioGroup</string>
+    <string name="action_settings">Settings</string> 
+    <string name="example_radiogroup">Example showing RadioGroup</string> 
+    <string name="example_radiogroup1button0">Amaury</string> 
+    <string name="example_radiogroup1button1">Dulce</string> 
+    <string name="example_radiogroup1button2">Luis</string> 
+    <string name="example_radiogroup2button0">MySQL Tutorial</string> 
+    <string name="example_radiogroup2button1">SQL Tutorial</string>
+    <string name="example_radiogroup2button2">SQLite Tutorial</string> 
+    <string name="group_button1">cricketer</string> 
+    <string name="group_button2">tutorialspoint</string>
+
+</resources>
