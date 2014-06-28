@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">NotificationsExample</string>
+    <string name="string_start">Start Notification</string>
+    <string name="string_stop">Stop Notification</string>
+    <string name="string_update">Update Notification</string>
+
+</resources>
