@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlertDialogsSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_positive">PositiveActivity</string>
+    <string name="title_activity_negative">NegativeActivity</string>
+    <string name="positive">Positive Activity</string>
+    <string name="negative">Negative Activity</string>
+    <string name="decision">Are you sure, you wanted to make this decision</string>
+    <string name="positive_button">+ive</string>
+    <string name="negative_button">-ive</string>
+</resources>
