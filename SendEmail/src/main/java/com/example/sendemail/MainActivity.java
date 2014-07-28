@@ -35,8 +35,7 @@ public class MainActivity extends Activity{
         String[] CC = {"developer.android@gmail.com"};
         //Intent to send the email
         Intent emailIntent = new Intent(Intent.ACTION_SEND);
-        emailIntent.setData(Uri.parse("mailto:"));
-        emailIntent.setType("text/plain");
+        emailIntent.setDataAndType(Uri.parse("mailto:"), "text/plain");
         //Put the intent's extras
         emailIntent.putExtra(Intent.EXTRA_EMAIL, TO);
         emailIntent.putExtra(Intent.EXTRA_CC, CC);
