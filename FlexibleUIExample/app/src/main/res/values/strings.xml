@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlexibleUIExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intent and Intent Filters</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>An activity is an application component that provides a screen with which users can interact</item>
+        <item>Services is an application component that can perform long-running operations in the background</item>
+        <item>Content Providers manage access to a structured set of data.</item>
+        <item>Three of the core components of an application (activities, services, broadcast receivers) are activated through intents</item>
+    </string-array>
+
+</resources>
